@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/brianmartinez.dev.ico",
     "slug": "personal-web",
     "status": "down",
-    "uptime": "1.49%",
-    "uptimeDay": "1.49%",
-    "uptimeWeek": "1.49%",
-    "uptimeMonth": "1.49%",
-    "uptimeYear": "1.49%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-11-27": 0
+      "2024-11-27": 52
     }
   },
   {
@@ -30,31 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 83,
-    "timeDay": 83,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-11-27": 0
+      "2024-11-27": 52
     }
-  },
-  {
-    "name": "ACEM Web",
-    "url": "https://www.acem.life",
-    "icon": "https://icons.duckduckgo.com/ip3/www.acem.life.ico",
-    "slug": "acem-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 847,
-    "timeWeek": 847,
-    "timeMonth": 847,
-    "timeYear": 847,
-    "dailyMinutesDown": {}
   }
 ]
