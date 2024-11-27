@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Personal Web
     url: https://brianmartinez.dev
+  - name: Trading Platform
+    url: https://trading.brianmartinez.dev
   - name: ACEM Web
     url: https://www.acem.life
 
