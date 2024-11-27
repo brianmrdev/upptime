@@ -7,8 +7,6 @@ sites:
     url: https://brianmartinez.dev
   - name: Trading Platform
     url: https://trading.brianmartinez.dev
-  - name: ACEM Web
-    url: https://www.acem.life
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
