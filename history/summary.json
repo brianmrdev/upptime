@@ -1,46 +1,20 @@
 [
   {
-    "name": "Personal Web",
-    "url": "https://brianmartinez.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/brianmartinez.dev.ico",
-    "slug": "personal-web",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 139,
-    "timeDay": 74,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {
-      "2024-11-29": 82,
-      "2024-11-28": 1440,
-      "2024-11-27": 1181
-    }
-  },
-  {
-    "name": "Trading Platform",
-    "url": "https://trading.brianmartinez.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/trading.brianmartinez.dev.ico",
-    "slug": "trading-platform",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 116,
-    "timeDay": 91,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
-    "dailyMinutesDown": {
-      "2024-11-29": 82,
-      "2024-11-28": 1440,
-      "2024-11-27": 1181
-    }
+    "name": "ACEM Web",
+    "url": "https://www.acem.life",
+    "icon": "https://icons.duckduckgo.com/ip3/www.acem.life.ico",
+    "slug": "acem-web",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 794,
+    "timeDay": 740,
+    "timeWeek": 794,
+    "timeMonth": 794,
+    "timeYear": 794,
+    "dailyMinutesDown": {}
   }
 ]
