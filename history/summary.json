@@ -6,15 +6,15 @@
     "slug": "acem-web",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "27.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.60%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.68%",
-    "time": 1029,
-    "timeDay": 1633,
-    "timeWeek": 1268,
-    "timeMonth": 1094,
-    "timeYear": 1029,
+    "time": 1030,
+    "timeDay": 1307,
+    "timeWeek": 1299,
+    "timeMonth": 1108,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2025-07-11": 1048
     }
