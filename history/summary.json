@@ -6,17 +6,16 @@
     "slug": "acem-web",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "98.97%",
     "time": 1103,
-    "timeDay": 1096,
-    "timeWeek": 1073,
-    "timeMonth": 1080,
-    "timeYear": 1116,
+    "timeDay": 1378,
+    "timeWeek": 1101,
+    "timeMonth": 1085,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-22": 16,
       "2026-01-21": 20,
       "2026-01-18": 82,
@@ -78,7 +77,8 @@
       "2025-11-05": 19,
       "2025-10-23": 17,
       "2025-10-18": 24,
-      "2025-10-16": 22
+      "2025-10-16": 22,
+      "2025-10-11": 17
     }
   }
 ]
