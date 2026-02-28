@@ -4,19 +4,18 @@
     "url": "https://www.acem.life",
     "icon": "https://icons.duckduckgo.com/ip3/www.acem.life.ico",
     "slug": "acem-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "94.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "94.52%",
     "uptimeYear": "99.20%",
     "time": 1096,
-    "timeDay": 1133,
+    "timeDay": 1177,
     "timeWeek": 1012,
     "timeMonth": 1006,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2026-02-28": 14,
       "2026-02-27": 99,
       "2026-02-26": 33,
       "2026-02-25": 116,
@@ -68,7 +67,8 @@
       "2025-12-23": 60,
       "2025-12-22": 41,
       "2025-12-21": 76,
-      "2025-12-20": 17
+      "2025-12-20": 17,
+      "2025-12-19": 27
     }
   }
 ]
